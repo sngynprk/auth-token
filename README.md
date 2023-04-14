@@ -1,2 +1,5 @@
-# auth-token
-Simple API access and refreshToken in Nodejs
+### JWT TOKEN-BASED AUTHENTICATION in NodeJS
+
+```
+npm install express jsonwebtoken joi mongoose bcrypt dotenv joi-password-complexity
+```
